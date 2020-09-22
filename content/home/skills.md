@@ -18,9 +18,7 @@ subtitle = ""
   icon = ""
   icon_pack = "fab"
   name = "Academic ability"
-  description = "Efficient reading ability
-                 Data analysis
-                 Writing"
+  description = "Efficient reading ability/Data analysis/Writing"
   
 [[feature]]
   icon = "chart-line"
