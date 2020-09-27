@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "chenzhengfei"
     exclude_featured = false
   
 [design]
