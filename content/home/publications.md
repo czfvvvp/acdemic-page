@@ -15,10 +15,10 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 2
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 2
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
